@@ -1,0 +1,20 @@
+[
+    {
+        "identificacion": "1",
+        "nombre": "Administrador",
+        "correo": "admin",
+        "clave": "admin"
+    },
+    {
+        "identificacion": "2",
+        "nombre": "Juan Perez",
+        "correo": "juan@gmail.com",
+        "clave": "1234"
+    },
+    {
+        "identificacion": "3",
+        "nombre": "Maria Lopez",
+        "correo": "maria@gmail.com",
+        "clave": "1234"
+    }
+]
